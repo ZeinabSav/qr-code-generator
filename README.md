@@ -1,1 +1,1 @@
-# qr-code-generator
+Update to trigger workflow
